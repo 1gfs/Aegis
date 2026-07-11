@@ -115,15 +115,6 @@ Each check module returns a list of `Finding` objects with a severity, descripti
 
 This tool performs passive, non-destructive checks. It does not exploit vulnerabilities, brute-force credentials, or inject payloads.
 
-## Resume / Portfolio Notes
-
-Good talking points for interviews:
-
-- Built a modular scanner architecture with pluggable check modules
-- Used Python dataclasses and enums for structured findings with severity scoring
-- Implemented concurrent port scanning with `ThreadPoolExecutor`
-- Parsed X.509 certificates and evaluated TLS configuration via the `ssl` module
-- Designed CLI tooling with argparse, colored output, and machine-readable JSON export
 
 ## License
 
