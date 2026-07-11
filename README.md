@@ -1,4 +1,4 @@
-# Simple Vuln Scanner
+# A very simple vulnerability scanner
 
 A lightweight web vulnerability scanner written in Python. Runs passive security checks — port discovery, HTTP header analysis, TLS inspection, and sensitive path detection — with clear terminal output and JSON reports.
 
